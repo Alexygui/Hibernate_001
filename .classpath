@@ -5,5 +5,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql_jdbc"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.39-bin.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
